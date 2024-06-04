@@ -1,13 +1,14 @@
 import React from "react";
 import Image from "next/image";
 import ImagePath from "../constant/ImagePath";
+import Link from "next/link";
 
 const Footer = () => {
   return (
     <>
       <div className="w-full h-max bg-slate-800 py-10">
         <div className="r-w md:flex md:items-start md:gap-5 md:justify-between">
-          <div className="mb-4 md:mb-0">
+          <div className="mb-8 md:mb-0">
             <Image
               alt="Logo"
               src={ImagePath.WHITE_LOGO}
@@ -22,7 +23,22 @@ const Footer = () => {
               schools and any person looking for quality education.
             </p>
           </div>
-          <div className="w-full md:w-max">
+          <div className="text-white flex flex-col justify-center items-center">
+            <p className="font-bold mb-2">Quick Links:</p>
+            <ul className="mr-6">
+              <li>
+                <Link href={"/about"} className="hover:underline">
+                  About
+                </Link>
+              </li>
+              <li>
+                <Link href={"/contact"} className="hover:underline">
+                  Contact
+                </Link>
+              </li>
+            </ul>
+          </div>
+          <div className="w-full md:w-max mt-10 md:mt-0">
             <Image
               alt="Google Rating"
               src={ImagePath.GOOGLE_RATING}

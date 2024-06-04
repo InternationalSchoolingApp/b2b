@@ -1,13 +1,11 @@
 import React from "react";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
 import ImagePath from "./constant/ImagePath";
 import Image from "next/image";
 import Calculator from "./components/Calculator";
 import NumbersReveal from "./components/NumbersReveal";
 import IconWithText from "./components/IconWithText";
-import Testimonial from "./components/Testimonial";
 import LeadForm from "./components/LeadForm";
+import Testimonial from "./components/Testimonial";
 
 export const metadata = {
   title: "Enrollment Partner - International Schooling",
@@ -37,7 +35,6 @@ const HomePage = () => {
 
   return (
     <div className="w-full h-max ">
-      <Header />
       <div className="r-w py-6 space-y-4">
         <h1 className="text-[#5d5d5d] text-lg md:text-xl font-bold text-center ">
           World&apos;s Top Rated and Most Recommended Online School
@@ -142,9 +139,8 @@ const HomePage = () => {
         </div>
       </div>
       <div className="r-w bg-gradient-to-r from-[#FFE6E6] to-[#DAECFF] rounded-3xl md:!my-16 !my-10 p-10">
-        {/* <Testimonial /> */}
+        <Testimonial />
       </div>
-      <Footer />
     </div>
   );
 };
