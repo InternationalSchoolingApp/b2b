@@ -15,6 +15,9 @@ const ImagePath = {
   REGISTER_IMAGE: "/register_img.webp",
   TICK_WHITE_VECTOR: "/tick_white_vector.svg",
   QUOTE_ICON: "/quote_icon.svg",
+  CONTACT_US_IMG: "/contact_us_img.png",
+  MAIL_ICON: "/mail.svg",
+  LOCATION_ICON: "/location_icon.svg",
   ABOUT_IMAGE: "/about-image.webp",
 };
 export default ImagePath;
