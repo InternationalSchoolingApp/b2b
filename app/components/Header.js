@@ -47,7 +47,7 @@ const Header = () => {
               {HeaderItems.map((item, index) => (
                 <li
                   key={index}
-                  className={`${
+                  className={`hover:text-[#007EFF] ${
                     router === item.url ? "text-[#007EFF]" : "text-[#5D5D5D]"
                   }`}
                 >
