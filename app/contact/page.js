@@ -68,9 +68,9 @@ const page = () => {
             <div className="">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7910234420433!2d103.83474597471107!3d1.30022459868743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1990e8a47437%3A0x799de2d69c213b61!2s111%20Somerset%20Rd%2C%20LEVEL%2013%20TripleOne%20Somerset%2C%20Singapore%20238164!5e0!3m2!1sen!2snl!4v1717499941004!5m2!1sen!2snl"
-                allowfullscreen=""
+                allowFullScreen=""
                 loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"
+                referrerPolicy="no-referrer-when-downgrade"
                 className="rounded-xl drop-shadow-md w-full h-60 mb-6"
               ></iframe>
             </div>
@@ -93,9 +93,9 @@ const page = () => {
             <div className="">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3353.306012916568!2d-96.8107331179413!3d32.81065590570695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e9ece896ced17%3A0x9804718fb47085ac!2s3710%20Rawlins%20St%20%231420%2C%20Dallas%2C%20TX%2075219%2C%20USA!5e0!3m2!1sen!2snl!4v1717500062786!5m2!1sen!2snl"
-                allowfullscreen=""
+                allowFullScreen=""
                 loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"
+                referrerPolicy="no-referrer-when-downgrade"
                 className="rounded-xl drop-shadow-md w-full h-60"
               ></iframe>
             </div>
