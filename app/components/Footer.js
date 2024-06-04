@@ -9,13 +9,15 @@ const Footer = () => {
       <div className="w-full h-max bg-slate-800 py-10">
         <div className="r-w md:flex md:items-start md:gap-5 md:justify-between">
           <div className="mb-8 md:mb-0">
-            <Image
-              alt="Logo"
-              src={ImagePath.WHITE_LOGO}
-              width={300}
-              height={100}
-              className="w-[200px] md:w-auto h-auto mb-4 m-auto md:ml-0"
-            />
+            <Link href={"/"}>
+              <Image
+                alt="Logo"
+                src={ImagePath.WHITE_LOGO}
+                width={300}
+                height={100}
+                className="w-[200px] md:w-auto h-auto mb-4 m-auto md:ml-0"
+              />
+            </Link>
             <p className="text-white text-sm text-justify md:w-[400px]">
               International Schooling offers an exclusive Enrollment Partnership
               opportunity to promising individuals/ organizations who promote
