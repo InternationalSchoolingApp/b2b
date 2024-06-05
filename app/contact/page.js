@@ -5,10 +5,10 @@ import Link from "next/link";
 
 const page = () => {
   return (
-    <div className="w-full">
-      <div className="r-w lg:flex py-12 lg:gap-20 items-center">
+    <>
+      <div className="r-w lg:flex lg:gap-20 items-center !my-10">
         <div>
-          <h1 className="text-5xl font-extrabold text-[#5d5d5d] mb-2 text-center lg:text-left">
+          <h1 className="text-2xl lg:text-5xl font-extrabold text-[#5d5d5d] mb-2 text-center lg:text-left">
             Contact Us
           </h1>
           <p className="text-[#5d5d5d] text-justify mb-6 w-full lg:w-3/4">
@@ -102,7 +102,7 @@ const page = () => {
           </div>
         </div>
       </div>
-    </div>
+    </>
   );
 };
 

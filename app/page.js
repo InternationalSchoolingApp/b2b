@@ -34,7 +34,7 @@ const HomePage = () => {
   ];
 
   return (
-    <div className="w-full h-max ">
+    <div className="w-full h-max">
       <div className="r-w py-6 space-y-4">
         <h1 className="text-[#5d5d5d] text-lg md:text-xl font-bold text-center ">
           World&apos;s Top Rated and Most Recommended Online School

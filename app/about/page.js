@@ -32,7 +32,7 @@ const page = () => {
       <div className="r-w !mt-10 ">
         <div className="flex flex-col lg:flex-row justify-between items-center gap-10 text-[#5D5D5D]">
           <div className="w-full">
-            <h1 className="text-2xl lg:text-5xl font-extrabold mb-2">
+            <h1 className="text-2xl lg:text-5xl font-extrabold mb-2 text-center lg:text-left">
               About Us
             </h1>
             <p className="text-justify">
@@ -57,7 +57,7 @@ const page = () => {
             />
           </div>
         </div>
-        <div className="space-y-4 !my-6 md:!my-16 w-max m-auto">
+        <div className="space-y-4 !my-6 md:!my-16 m-auto">
           <NumbersReveal />
         </div>
 
