@@ -29,8 +29,8 @@ const Header = () => {
     setIsOpen((prev) => !prev);
   };
   return (
-    <div className="w-full h-max sticky top-0 bg-[#F7FBFF]/90 z-50 shadow-sm">
-      <div className="r-w py-4 flex items-center gap-5 lg:justify-between">
+    <div className="w-full h-max sticky top-0 bg-[#F7FBFF]/30 z-50 shadow-sm">
+      <div className="r-w lg:py-4 py-2 flex items-center gap-5 lg:justify-between backdrop-blur">
         <Link href={"/"}>
           <Image
             alt="Logo"
