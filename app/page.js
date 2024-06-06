@@ -8,9 +8,11 @@ import LeadForm from "./components/LeadForm";
 import Testimonial from "./components/Testimonial";
 
 export const metadata = {
-  title: "Enrollment Partner - International Schooling",
+  title: "Partner with Us | Be Your Own Boss with International Schooling",
   description:
-    "International Schooling, trusted by 14000+ students & parents in 135+ countries, is an accredited online school, offering Elementary, Middle & Online High School programs.",
+    "Join International Schooling, the world's top-rated online school. Become an Enrollment Partner and start your own business with no personal cost.",
+  robots: "index,follow",
+  referrer: "no-referrer-when-downgrade",
 };
 
 const HomePage = () => {

@@ -3,6 +3,14 @@ import Image from "next/image";
 import ImagePath from "../constant/ImagePath";
 import Link from "next/link";
 
+export const metadata = {
+  title: "Contact Us | B2b - Enrollment Partner Program",
+  description:
+    "Get in touch with International Schooling to learn more about our Enrollment Partner program. Become your own boss and join the world's top-rated online school.",
+  robots: "index,follow",
+  referrer: "no-referrer-when-downgrade",
+};
+
 const page = () => {
   return (
     <>

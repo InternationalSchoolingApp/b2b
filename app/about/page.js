@@ -3,6 +3,14 @@ import NumbersReveal from "../components/NumbersReveal";
 import Image from "next/image";
 import ImagePath from "../constant/ImagePath";
 
+export const metadata = {
+  title: "About International Schooling's Enrollment Partner Program",
+  description:
+    "Learn about International Schooling's Enrollment Partnership program. Discover how individuals, teachers, coaches, schools, and educational institutions can become partners.",
+  robots: "index,follow",
+  referrer: "no-referrer-when-downgrade",
+};
+
 const content = [
   {
     title: "Is International Schooling an 'ACCREDITED' school ?",
