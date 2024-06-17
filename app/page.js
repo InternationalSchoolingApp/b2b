@@ -72,7 +72,7 @@ const HomePage = () => {
           for you.
         </p>
       </div>
-      <div className="r-w  flex flex-col-reverse md:flex-row md:items-center md:gap-5 py-6 ">
+      <div className="r-w  md:flex md:items-center md:gap-5 py-6 ">
         <Image
           alt="Hero-Image"
           src={ImagePath.HERO_IMAGE}
@@ -81,29 +81,37 @@ const HomePage = () => {
           priority
           className="h-auto w-full md:!w-3/5  md:ml-0 m-auto "
         />
+        <div className="r-w py-10">
+          <h2 className="text-2xl mb-4 font-bold text-[#5d5d5d]">
+            Creating tomorrow’s leaders today, together!
+          </h2>
+          <p className="text-justify">
+            Growth, innovation and improved methodologies are the main goals of
+            any strategic partnership. With increased resources, technologies
+            and market expansion, long- term partnerships nurture efficient
+            functioning, foster trust among stakeholders and maximize financial
+            benefits.
+          </p>
+        </div>
+      </div>
+
+      <div className=" r-w flex-col-reverse md:flex-row bg-[#037FFF] rounded-3xl md:!my-16 flex md:items-center p-8 md:gap-20 w-full">
+        <div className="w-full md:w-2/4 mb-6">
+          <p className="text-white text-justify">
+            International Schooling is one of the most recommended and trusted
+            American online school. It maintains a global presence in over 135
+            countries has more than 14000 students. With International
+            Schooling, you not only increase your financial outcomes but also
+            enhance your presence in the education sector. Strengthening
+            technology and resources, partnership with us gives you access to
+            specialized knowledge and expertise in the field of education and
+            improves educational and monetary outcomes.
+          </p>
+        </div>
+
         <Calculator />
       </div>
 
-      <div className="text-justify r-w py-10">
-        <h2 className="text-2xl mb-4 font-bold text-[#5d5d5d]">
-          Creating tomorrow’s leaders today, together!
-        </h2>
-        <p className="">
-          Growth, innovation and improved methodologies are the main goals of
-          any strategic partnership. With increased resources, technologies and
-          market expansion, long- term partnerships nurture efficient
-          functioning, foster trust among stakeholders and maximize financial
-          benefits. <br />
-          International Schooling is one of the most recommended and trusted
-          American online school. It maintains a global presence in over 135
-          countries has more than 14000 students. With International Schooling,
-          you not only increase your financial outcomes but also enhance your
-          presence in the education sector. Strengthening technology and
-          resources, partnership with us gives you access to specialized
-          knowledge and expertise in the field of education and improves
-          educational and monetary outcomes.
-        </p>
-      </div>
       <div className="r-w space-y-4 !my-6 md:!my-16 w-max m-auto">
         <NumbersReveal />
       </div>
