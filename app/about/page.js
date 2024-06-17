@@ -13,22 +13,43 @@ export const metadata = {
 
 const content = [
   {
-    title: "Is International Schooling an 'ACCREDITED' school ?",
+    title: "What are the benefits of partnering with International Schooling ?",
     content:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
   },
   {
-    title: "Is International Schooling an 'ACCREDITED' school ?",
+    title:
+      "What type of organizations does International Schooling partner with ?",
     content:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
   },
   {
-    title: "Is International Schooling an 'ACCREDITED' school ?",
+    title:
+      "What is the process of initiating partnership with International Schooling ?",
     content:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
   },
   {
-    title: "Is International Schooling an 'ACCREDITED' school ?",
+    title:
+      "Is there any fee or cost associated with becoming International Schooling’s partner ?",
+    content:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
+  },
+  {
+    title:
+      "What is the profit of a partner organization if a parent pays the full fee in one go ?",
+    content:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
+  },
+  {
+    title:
+      "What is the profit of a partner organization if a parent pays the fee in installments ?",
+    content:
+      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
+  },
+  {
+    title:
+      "Does International Schooling take suggestions and feedbacks from its partners ?",
     content:
       "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
   },
@@ -44,15 +65,21 @@ const page = () => {
               About Us
             </h1>
             <p className="text-justify">
-              Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-              commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-              penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-              Donec quam felis, ultricies nec, pellentesque eu, pretium quis,
-              sem. Nulla consequat massa quis enim. Donec pede justo, fringilla
-              vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,
-              imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede
-              mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum
-              semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula,
+              International Schooling, accredited by Cognia, USA, approved by
+              College Board, USA and powered by Discovery Education, is one of
+              the best American Online Schools. A proud member of the United
+              Nations and approved by NCAA, it is the most recommended and
+              trusted online school in the world. We have a presence in over 135
+              countries and a diverse community of more than 14000 students.
+              <br />
+              International Schooling provides an Enrollment Partnership
+              opportunity for individuals and organizations across the world,
+              dedicated to promoting its services to students, parents, schools,
+              and anyone seeking quality education. With International
+              Schooling, you not only broaden your presence in the education
+              sector but also increase your financial benefits. A collaborative
+              approach to meet the growing market demands increases growth,
+              innovation and educational and financial outcomes.
             </p>
           </div>
           <div className="">
