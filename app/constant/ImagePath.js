@@ -6,7 +6,7 @@ const ImagePath = {
   GOOGLE_RATING_BLACK: "/google_rating_black.webp",
   TRUSTPILOT_RATING_BLACK: "/trustpilot_rating_black.webp",
   // HERO_IMAGE: "/Hero_img.webp",
-  HERO_IMAGE: "/b2b-Img.png",
+  HERO_IMAGE: "/b2b-Img.webp",
   CITY_VECTOR: "/city_vector.svg",
   STATE_VECTOR: "/state_vector.svg",
   COUNTRY_VECTOR: "/country_vector.svg",
