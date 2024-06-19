@@ -79,7 +79,7 @@ const HomePage = () => {
           width={600}
           height={400}
           priority
-          className="h-auto w-full md:!w-3/5  md:ml-0 m-auto "
+          className="h-auto w-full md:!w-3/5  md:ml-0 m-auto rounded-2xl"
         />
         <div className="r-w py-10">
           <h2 className="text-2xl mb-4 font-bold text-[#5d5d5d]">

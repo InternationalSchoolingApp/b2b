@@ -30,7 +30,7 @@ const Header = () => {
   };
   return (
     <div className="w-full h-max sticky top-0 bg-[#F7FBFF]/30 z-50 shadow-sm">
-      <div className="r-w lg:py-4 py-2 flex items-center gap-5 lg:justify-between backdrop-blur">
+      <div className="r-w lg:py-4 py-2 flex items-center gap-5 lg:justify-between bb">
         <Link href={"/"}>
           <Image
             alt="Logo"

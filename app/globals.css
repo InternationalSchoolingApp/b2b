@@ -72,3 +72,8 @@ body {
 .hover-fill-button h4:hover span {
   color: #fff;
 }
+
+.bb {
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+}
