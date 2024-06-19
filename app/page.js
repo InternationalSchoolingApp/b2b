@@ -46,20 +46,20 @@ const HomePage = () => {
             alt="google-rating"
             src={ImagePath.GOOGLE_RATING_BLACK}
             width={250}
-            height={250}
+            height={30}
             className="h-auto mb-2 md:mb-0"
           />
           <Image
             alt="trustpilot-rating"
             src={ImagePath.TRUSTPILOT_RATING_BLACK}
             width={250}
-            height={250}
+            height={30}
             className="h-auto"
           />
         </div>
         <h2 className="text-2xl md:text-5xl font-bold text-center font-serif text-[#5d5d5d]">
           Be an{" "}
-          <span className="text-3xl c-text md:text-6xl bg-gradient-to-r from-[#007EFF] to-[#FF0000] text-transparent bg-clip-text">
+          <span className="text-2xl md:text-6xl bg-gradient-to-r from-[#007EFF] to-[#FF0000] text-transparent bg-clip-text">
             Enrollment Partner
           </span>{" "}
           and
@@ -76,8 +76,8 @@ const HomePage = () => {
         <Image
           alt="Hero-Image"
           src={ImagePath.HERO_IMAGE}
-          width={600}
-          height={400}
+          width={500}
+          height={200}
           priority
           className="h-auto w-full md:!w-3/5  md:ml-0 m-auto rounded-2xl"
         />
