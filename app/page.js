@@ -96,7 +96,7 @@ const HomePage = () => {
       </div>
 
       <div className=" r-w flex-col-reverse md:flex-row bg-[#037FFF] rounded-3xl md:!my-16 flex md:items-center p-8 md:gap-20 w-full">
-        <div className="w-full md:w-2/4 mb-6">
+        <div className="w-full md:w-2/4">
           <p className="text-white text-justify">
             International Schooling is one of the most recommended and trusted
             American online school. It maintains a global presence in over 135
