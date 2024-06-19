@@ -88,7 +88,7 @@ const page = () => {
               height={500}
               src={ImagePath.ABOUT_IMAGE}
               alt="about-image"
-              className="w-full"
+              className="w-full rounded-xl"
             />
           </div>
         </div>
