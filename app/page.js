@@ -36,7 +36,7 @@ const HomePage = () => {
   ];
 
   return (
-    <div className="w-full h-max">
+    <>
       <div className="r-w py-6 space-y-4">
         <h1 className="text-[#5d5d5d] text-lg md:text-xl font-bold text-center ">
           World&apos;s Top Rated and Most Recommended Online School
@@ -171,7 +171,7 @@ const HomePage = () => {
       <div className="r-w bg-gradient-to-r from-[#FFE6E6] to-[#DAECFF] rounded-3xl md:!my-16 !my-10 p-10">
         <Testimonial />
       </div>
-    </div>
+    </>
   );
 };
 
