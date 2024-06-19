@@ -108,7 +108,6 @@ const HomePage = () => {
             improves educational and monetary outcomes.
           </p>
         </div>
-        sands dbshdbfdfbj
         <Calculator />
       </div>
 
