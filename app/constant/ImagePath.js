@@ -12,7 +12,7 @@ const ImagePath = {
   COUNTRY_VECTOR: "/country_vector.svg",
   BENEFITS_IMAGE: "/benefits_img.webp",
   TICK_VECTOR: "/tick_vector.svg",
-  ENROLMENT_PARTNER: "/enrolment_partner.png",
+  ENROLMENT_PARTNER: "/enrolment_partner.webp",
   REGISTER_IMAGE: "/register_img.webp",
   TICK_WHITE_VECTOR: "/tick_white_vector.svg",
   QUOTE_ICON: "/quote_icon.svg",
