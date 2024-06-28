@@ -168,9 +168,6 @@ const HomePage = () => {
           </div>
         </div>
       </div>
-      <div className="r-w bg-gradient-to-r from-[#FFE6E6] to-[#DAECFF] rounded-3xl md:!my-16 !my-10 p-10">
-        <Testimonial />
-      </div>
     </>
   );
 };
