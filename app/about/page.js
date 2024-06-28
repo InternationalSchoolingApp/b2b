@@ -13,45 +13,38 @@ export const metadata = {
 
 const content = [
   {
+    title: "What is International Schooling ?",
+    content:
+      "International Schooling, accredited by Cognia, USA, is the most trusted and recommended American Online School serving 14000+ students in over 135 countries. It offers American curriculum from grades KG-12 and has 600+ internationally trained and certified teachers speaking 40+ languages. ",
+  },
+  {
     title: "What are the benefits of partnering with International Schooling ?",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
+      "International Schooling is a leading global brand in online school education that allows its partners to step into a new business stream with no investment. Its partners can work from the comfort of their home, with zero infrastructural costs. ",
   },
   {
     title:
       "What type of organizations does International Schooling partner with ?",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
+      "International Schooling offers partnership opportunities to schools, colleges, vocational training institutions, special courses centers and other educational institutions. It also partners with individuals looking for business opportunities, teachers, coaches and consultants.",
   },
   {
     title:
       "What is the process of initiating partnership with International Schooling ?",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
+      "Partnership with International Schooling can be initiated by filling the form on the home page.",
   },
   {
     title:
       "Is there any fee or cost associated with becoming International Schooling’s partner ?",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
-  },
-  {
-    title:
-      "What is the profit of a partner organization if a parent pays the full fee in one go ?",
-    content:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
-  },
-  {
-    title:
-      "What is the profit of a partner organization if a parent pays the fee in installments ?",
-    content:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
+      "Partnership with International Schooling involves no investment cost.",
   },
   {
     title:
       "Does International Schooling take suggestions and feedbacks from its partners ?",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur quae iste praesentium minus explicabo adipisci tempora aspernatur, porro sunt exercitationem. Placeat quas corporis exercitationem minus aspernatur iusto sint, officia saepe, beatae libero, architecto tenetur et assumenda maxime dolore rem ea officiis odio totam obcaecati esse neque dicta nemo! Impedit, facilis.",
+      "Yes, International Schooling regularly takes suggestions and constructive feedback from its partners.",
   },
 ];
 
